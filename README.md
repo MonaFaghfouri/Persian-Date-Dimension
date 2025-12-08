@@ -1,6 +1,5 @@
 
 
----
 
 # 🌙 **Jalali DimDate Generator**
 
