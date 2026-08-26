@@ -771,8 +771,4 @@ Data Analyst | Python Developer | Business Intelligence | Data Analytics
 
 GitHub: `MonaFaghfouri`
 
----
 
-## 📌 Project Summary
-
-> A Python-based Persian/Jalali Date Dimension Generator for Power BI, data warehouses, business intelligence, and time-series analytics, featuring Gregorian-to-Jalali conversion, Persian calendar hierarchies, advanced time attributes, and holiday detection.
